@@ -1,0 +1,14 @@
+<view class="al-appraise-item">
+  <view class="al-appraise-item">
+    <view class="al-appraise-item-appraise al-appraise-margin">
+      <image src="{{item.pic}}" class="al-appraise-item-appraise-img"></image>
+      <textarea class="al-appraise-item-appraise-input" placeholder="简略对商品进行评价" bindblur="handleInput"/>
+    </view>
+    <view>
+      <component key="imageField" name="al-image-field"/>
+    </view>
+    <view class="border-top margin-top-xsmall al-appraise-margin">
+      <component key="gradeField" name="al-grade-field"/>
+    </view>
+  </view>
+</view>

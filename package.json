@@ -1,0 +1,24 @@
+{
+  "name": "al-appraise",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "alaska",
+    "labrador"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/al-appraise.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/al-appraise/issues"
+  },
+  "homepage": "https://github.com/maichong/al-appraise#readme",
+  "author": {
+    "email": "pang@maichong.it",
+    "name": "Pang",
+    "url": "https://github.com/SweeHom"
+  }
+}

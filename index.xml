@@ -1,0 +1,12 @@
+<view class="al-appraise">
+  <view class="al-appraise-content">
+    <scroll-view scroll-y="true">
+      <list key="listItems" name="al-appraise/item"/>
+    </scroll-view>
+  </view>
+  <view class="al-appraise-top-line">
+  </view>
+  <view class="al-appraise-btn-warp">
+    <button type="warn" size="100" catchtap="handleAppraise">评价</button>
+  </view>
+</view>
